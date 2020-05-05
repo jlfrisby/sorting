@@ -1,0 +1,10 @@
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\bin\Debug\C - SortingAlgorithms_Form.exe.config
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\bin\Debug\C - SortingAlgorithms_Form.exe
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\bin\Debug\C - SortingAlgorithms_Form.pdb
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C - SortingAlgorithms_Form.csprojAssemblyReference.cache
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C___SortingAlgorithms_Form.Form1.resources
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C___SortingAlgorithms_Form.Properties.Resources.resources
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C - SortingAlgorithms_Form.csproj.GenerateResource.cache
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C - SortingAlgorithms_Form.csproj.CoreCompileInputs.cache
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C - SortingAlgorithms_Form.exe
+C:\Users\Jessie\source\repos\C - SortingAlgorithms_Form\C - SortingAlgorithms_Form\obj\Debug\C - SortingAlgorithms_Form.pdb
